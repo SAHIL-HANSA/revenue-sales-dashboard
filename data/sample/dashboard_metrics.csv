@@ -1,0 +1,39 @@
+Metric,Value,Target,Performance_Percentage,Period
+Total_Revenue,2547500,2000000,127.4%,Q1 2024
+Units_Sold,47829,40000,119.6%,Q1 2024
+Average_Order_Value,258.75,220.00,117.6%,Q1 2024
+Customer_Acquisition,1250,1000,125.0%,Q1 2024
+Revenue_Growth,15.2%,10.0%,152.0%,QoQ Growth
+Dashboard_Load_Time,2.3,3.0,130.4%,Performance
+Data_Refresh_Frequency,Daily,Daily,100.0%,Operational
+Time_Saved_Weekly,8.5,6.0,141.7%,Efficiency
+
+Category,Revenue,Units_Sold,Growth_Rate,Market_Share
+Electronics,847500,8750,18.5%,45.2%
+Clothing,568200,12450,12.3%,28.7%
+Home & Garden,421800,4890,22.1%,19.4%
+Sports,189600,3840,8.9%,6.7%
+
+Region,Revenue,Transactions,Avg_Order_Value,Growth
+North,892300,3420,261.00,16.8%
+South,763200,3180,240.00,14.2%
+East,601800,2890,208.30,13.5%
+West,567200,2640,214.80,17.3%
+
+Month,Revenue,Transactions,Units_Sold,Growth_MoM
+January,812500,3125,15750,0.0%
+February,851200,3210,16200,4.8%
+March,883800,3295,16579,3.8%
+
+Customer_Segment,Count,Revenue_Contribution,Avg_Lifetime_Value,Retention_Rate
+VIP,125,35.2%,7250.00,95.0%
+High_Value,450,42.8%,2425.00,88.5%
+Regular,1200,18.5%,395.00,75.2%
+Low_Value,875,3.5%,102.00,45.8%
+
+KPI,Current_Value,Target,Status,Trend
+Revenue_Target,127.4%,100%,Exceeded,Increasing
+Customer_Satisfaction,4.2,4.0,Met,Stable  
+Market_Share,12.8%,15%,Below,Improving
+Cost_Efficiency,92.5%,90%,Met,Stable
+Team_Productivity,115%,100%,Exceeded,Increasing

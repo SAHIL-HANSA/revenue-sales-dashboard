@@ -128,7 +128,7 @@ python python/data_preprocessing.py
 ## 📸 Dashboard Screenshots
 
 ### Main Dashboard
-![Dashboard Preview](assets/dashboard_preview.png)
+![Main Dashboard](assets/main_dashboard.png)
 
 ### Revenue Trends
 ![Revenue Trends](assets/revenue_trends.png)

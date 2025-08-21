@@ -4,8 +4,6 @@
 
 This project involves designing an interactive dashboard to visualize sales trends and revenue insights from multi-source ETL data. The dashboard enables stakeholders to monitor business performance in real-time and make data-driven strategic decisions.
 
-![Dashboard Preview](assets/dashboard_preview.png)
-
 ## 🎯 Objectives
 
 - Create an interactive dashboard for real-time sales monitoring
@@ -152,7 +150,7 @@ python python/data_preprocessing.py
 ## 📸 Dashboard Screenshots
 
 ### Main Dashboard
-![Main Dashboard](assets/main_dashboard.png)
+![Dashboard Preview](assets/dashboard_preview.png)
 
 ### Revenue Trends
 ![Revenue Trends](assets/revenue_trends.png)

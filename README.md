@@ -40,42 +40,20 @@ This project involves designing an interactive dashboard to visualize sales tren
 
 ```
 revenue-sales-dashboard/
-│
-├── data/
-│   ├── raw/                    # Original data files
-│   ├── processed/              # Cleaned and transformed data
-│   └── sample/                 # Sample datasets for demonstration
-│
-├── sql/
-│   ├── data_extraction.sql     # SQL queries for data extraction
-│   ├── data_transformation.sql # Data cleaning and transformation
-│   └── create_views.sql        # Database views creation
-│
-├── python/
-│   ├── data_preprocessing.py   # Data cleaning and preparation
-│   ├── etl_pipeline.py        # ETL process automation
-│   └── data_analysis.py       # Advanced analytics and insights
-│
-├── power_bi/
-│   ├── revenue_dashboard.pbix  # Main Power BI dashboard file
-│   └── data_model.pbit        # Power BI template
-│
-├── excel/
-│   ├── sales_analysis.xlsx    # Excel analysis workbook
-│   └── data_validation.xlsx   # Data quality checks
-│
-├── assets/
-│   ├── dashboard_preview.png  # Dashboard screenshots
-│   └── architecture_diagram.png
-│
-├── docs/
-│   ├── user_guide.md          # Dashboard user manual
-│   ├── technical_specs.md     # Technical documentation
-│   └── data_dictionary.md     # Data field definitions
-│
-├── requirements.txt           # Python dependencies
-├── README.md                 # Project documentation
-└── .gitignore               # Git ignore file
+├── README.md                    
+├── requirements.txt             
+├── .gitignore                 
+├── Python/                     
+│   └── etl_pipeline.py         
+├── sql/                     
+│   └── data_extraction.sql     
+├── assets/                     
+│   ├── main_dashboard.png      
+│   ├── revenue_trends.png      
+│   └── performance_kpis.png    
+└── data/sample/                
+    ├── sample_sales_data.csv   
+    └── dashboard_metrics.csv   
 ```
 
 ## 🚀 Getting Started

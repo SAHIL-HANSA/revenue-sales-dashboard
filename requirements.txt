@@ -1,0 +1,41 @@
+# Python Dependencies for Revenue & Sales Dashboard Project
+
+# Data Processing & Analysis
+pandas==2.0.3
+numpy==1.24.3
+scipy==1.11.1
+
+# Database Connectivity  
+sqlalchemy==2.0.19
+pyodbc==4.0.39
+pymysql==1.1.0
+
+# Data Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Excel File Handling
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Environment & Configuration
+python-dotenv==1.0.0
+configparser==6.0.0
+
+# Data Quality & Validation
+great-expectations==0.17.12
+
+# Jupyter Notebooks (optional)
+jupyter==1.0.0
+ipykernel==6.24.0
+
+# API & Web Scraping (if needed)
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# Date & Time Handling
+python-dateutil==2.8.2
+
+# Progress Bars
+tqdm==4.65.0
